@@ -1,0 +1,7 @@
+
+project 1/file_1G.csv
+project 1/file_100M.csv
+project 1/file_10G.csv
+project 1/file_10M.csv
+*.zip
+*.docx
