@@ -1,0 +1,8 @@
+-------------------- Sequential --------------------
+File size 10M read time: 3.3073 seconds
+File size 100M read time: 31.8954 seconds
+File size 1G read time: 291.1034 seconds
+File size 10G read time: 3998.0999 seconds
+-------------------- Random --------------------
+File size 10M read time: 324.0935 seconds
+File size 100M read time: 2537.1172 seconds

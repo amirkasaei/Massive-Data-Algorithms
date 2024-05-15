@@ -1,0 +1,10 @@
+-------------------- Sequential --------------------
+Array size 1M read time: 0.0114 seconds
+Array size 10M read time: 0.1119 seconds
+Array size 100M read time: 1.4624 seconds
+Array size 1G read time: 150.8985 seconds
+-------------------- Random --------------------
+Array size 1M read time: 0.2467 seconds
+Array size 10M read time: 3.2723 seconds
+Array size 100M read time: 40.8265 seconds
+Array size 1G read time: 4474.4259 seconds
