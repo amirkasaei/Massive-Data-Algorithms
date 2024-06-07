@@ -6,3 +6,4 @@ project 1/file_10M.csv
 *.zip
 *.docx
 *.mp4
+*.csv
